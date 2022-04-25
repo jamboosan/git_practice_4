@@ -1,2 +1,4 @@
 Not all readers are leaders,
 But all leaders are Readers.
+But sometimes this rule doesn't apply for all Leaders.
+
